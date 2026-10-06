@@ -1,6 +1,4 @@
-# Calculadora-Cientifica
-
-Primera versión de la Calculadora Científica desarrollada con .NET MAUI.
+# Calculadora-Cientifica desarrollada con .NET MAUI.
 
 Plataformas disponibles:
 - Android
